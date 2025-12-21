@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nuts"
+    }
+  },
+  "defaultProject": "nuts",
+  "cli": {
+    "analytics": "aa2a8a2f-ae3f-4993-94ac-257ef13c7313"
+  }
 }
